@@ -1,2 +1,3 @@
 # HubCast
-Up your mp3 to Github!
+### Your podcast on the cloud unlimited and for free! 
+#### Thanks Github
